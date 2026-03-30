@@ -408,6 +408,10 @@ export default function App() {
           letter-spacing: -0.04em;
         }
 
+        h1, h2 {
+          color: #111827;
+        }
+
         .cta p {
           margin: 0;
           font-size: 17px;
