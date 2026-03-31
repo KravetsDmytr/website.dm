@@ -565,7 +565,7 @@ export default function App() {
             </p>
             <div className="hero-actions">
               <a href="https://example.com" target="_blank" rel="noreferrer" className="btn btn-primary">
-                Перейти на сайт
+                Перейти до Pet & Plant Store
               </a>
               <a href="#about" className="btn btn-secondary">
                 Дивитися далі
@@ -585,7 +585,7 @@ export default function App() {
         <section id="about" className="section reveal">
           <h2 className="section-title">Сайт, який продає не лише товари, а й враження</h2>
           <p className="section-lead">
-            Основний сайт створений як візуально привабливий простір для покупок. Він поєднує
+            Pet & Plant Store створений як візуально привабливий простір для покупок. Він поєднує
             затишну атмосферу, чисту подачу товарів і зручну навігацію, щоб користувач міг не просто
             знайти потрібне, а отримати приємний досвід від самого процесу вибору.
           </p>
@@ -648,7 +648,7 @@ export default function App() {
             <div className="text-card">
               <h3>Рослини як частина красивого щоденного простору</h3>
               <p>
-                Основний сайт також представляє товари для рослин: горщики, ґрунти, добрива,
+                Pet & Plant Store також представляє товари для рослин: горщики, ґрунти, добрива,
                 декор і все, що допомагає перетворити догляд за рослинами на приємний ритуал.
               </p>
               <p>
@@ -700,10 +700,10 @@ export default function App() {
 
           <div className="cta reveal" id="visit">
             <div>
-              <h3>Готові відкрити основний сайт?</h3>
+              <h3>Готові відкрити Pet & Plant Store?</h3>
               <p>
-                Перейдіть до повної версії магазину, щоб побачити його атмосферу, переглянути товари
-                та відчути стиль бренду у дії.
+                Перейдіть до Pet & Plant Store, щоб переглянути каталог товарів, підібрати
+                необхідне для улюбленців і рослин та оформити замовлення онлайн.
               </p>
             </div>
             <a href="https://example.com" target="_blank" rel="noreferrer" className="btn btn-primary">
@@ -714,7 +714,7 @@ export default function App() {
 
         <footer className="footer">
           <div>Pet & Plant Store</div>
-          <div>Presentation page / 2026</div>
+          <div>Офіційна промо-сторінка Pet & Plant Store / 2026</div>
         </footer>
       </div>
     </>
